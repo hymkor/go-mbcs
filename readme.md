@@ -1,3 +1,8 @@
+This package is obsolete
+========================
+
+Please use [zetamatta/go-windows-mbcs](https://github.com/zetamatta/go-windows-mbcs).
+
 go-mbcs
 =======
 
